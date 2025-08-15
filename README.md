@@ -1,5 +1,13 @@
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
+## 密码
+
+OpenWrt固件
+管理ip：192.168.5.1
+用户名和密码：root/password
+无线wifi名称：OpenWrt
+无线wifi密码：password
+
 # Actions-OpenWrt
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
