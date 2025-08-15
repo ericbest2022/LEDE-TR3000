@@ -1,9 +1,9 @@
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
-## 密码
+## Password
 
 - OpenWrt固件
-- 管理ip：192.168.5.1
+- 管理ip：192.168.1.1
 - 用户名和密码：root/password
 - 无线wifi名称：OpenWrt
 - 无线wifi密码：password
