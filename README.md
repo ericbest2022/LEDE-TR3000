@@ -2,11 +2,11 @@
 
 ## 密码
 
-OpenWrt固件
-管理ip：192.168.5.1
-用户名和密码：root/password
-无线wifi名称：OpenWrt
-无线wifi密码：password
+- OpenWrt固件
+- 管理ip：192.168.5.1
+- 用户名和密码：root/password
+- 无线wifi名称：OpenWrt
+- 无线wifi密码：password
 
 # Actions-OpenWrt
 
